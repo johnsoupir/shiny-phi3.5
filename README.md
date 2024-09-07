@@ -21,7 +21,7 @@ The model weights will be available on my [huggingface page](https://huggingface
 
 ### Fine-Tuning
 
-To fine-tune the model, run the `train-shiny-phi3.5.py` script. This script utilizes a custom training setup optimized for performance.
+To fine-tune the model, run the `train-shiny-phi3.5.py` script.
 
 ```sh
 python train-shiny-phi3.5.py
