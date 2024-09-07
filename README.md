@@ -8,8 +8,7 @@ Reflection fine-tuning guides the model to generate a plan, and then reflect on 
 
 This repository contains datasets in both their original and processed forms, as well as the code necessary for fine-tuning.
 ## Model
-The model weights are available on my huggingface page:
-huggingface.co/johnsoupir/Shiny-Phi3.5
+The model weights are available on my [huggingface page](https://huggingface.co/johnsoupir/Shiny-Phi3.5).
 
 
 ## Contents
@@ -46,7 +45,7 @@ pip install -r requirements.txt
 
 ## Credits
 
-- **Datasets**: Provided by Maheswar KK (mahiatlinux on Hugging Face) huggingface.co/datasets/mahiatlinux/Reflection-Dataset-v2
+- **Datasets**: Provided by Maheswar KK (mahiatlinux on Hugging Face)[https://huggingface.co/datasets/mahiatlinux/Reflection-Dataset-v2]
 
 
 ## License
