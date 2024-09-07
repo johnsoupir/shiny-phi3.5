@@ -8,7 +8,7 @@ Reflection fine-tuning guides the model to generate a plan, and then reflect on 
 
 This repository contains datasets in both their original and processed forms, as well as the code necessary for fine-tuning.
 ## Model
-The model weights are available on my [huggingface page](https://huggingface.co/johnsoupir/Shiny-Phi3.5).
+The model weights will be available on my [huggingface page](https://huggingface.co/johnsoupir/Shiny-Phi3.5) once some bugs are worked out.
 
 
 ## Contents
