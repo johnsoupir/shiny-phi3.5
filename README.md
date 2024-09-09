@@ -3,12 +3,15 @@
 
 **Shiny-Phi3.5** is a reflection fine-tune of Phi3.5 using mahiatlinux's dataset. 
 
-Reflection fine-tuning guides the model to generate a plan, and then reflect on the plan before proceeding to the final output. A similar approach has been used by instucting the model to plan and reflect via system promps. Reflection tuning "bakes in" the behaviour and may or may not have additional bennefits. The early results are promising.
+Recently "Reflection 70B" drew a lot of attention after making claims of massive performance gains via reflection tuning. However, independent testing has been unable to reproduce these results.
 
+Reflection fine-tuning guides the model to generate a plan, and then reflect on the plan before proceeding to the final output. A similar approach has been used by Claude: instructing the model to plan and reflect via system prompts. Reflection tuning "bakes in" the behavior. 
+
+I was curious to try it myself, so I made this model. If you'd like to try a smaller reflection model for yourself, or just one that's not associated with the original - then here you go!
 
 This repository contains datasets in both their original and processed forms, as well as the code necessary for fine-tuning.
 ## Model
-The model weights will be available on my [huggingface page](https://huggingface.co/johnsoupir/Shiny-Phi3.5) once some bugs are worked out.
+The model weights are available on my [huggingface page](https://huggingface.co/johnsoupir/Shiny-Phi3.5).
 
 
 ## Contents
